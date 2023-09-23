@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Oscar Lopez!
-- `Im an avid self taught Machine Learning Engineer and CS Student earning my wings with a B.S in Computer Science! I love learning new things and tweaking with Software and new tech! I am notorious for distro hopping and breaking things that already worked.`
+- `Im an avid self taught Software Engineer and CS Student earning my wings with a B.S in Computer Science! I love learning new things and tweaking with Software and new tech! I am notorious for distro hopping and breaking things that already worked.`
 
 ![Alt Text](./OscarLopez.gif)
 
@@ -16,9 +16,9 @@ Languages + Tools I use:
 
 ---
 
-- 👀 I’m interested in Machine Learning and discovering new applications of AI!
-- 🌱 I’m currently learning Data Analytics and Statistics
-- 💞️ I’m looking to collaborate on Classical Machine Learning tasks.
+- 👀 I’m interested in Quantum Computing and its applications especially in the fields of privacy and security!
+- 🌱 I’m currently learning Qiskit and Mathematical Foundations in Algorithm Development.
+- 💞️ I’m looking to collaborate on any Open Source Software!
 - 📫 How to reach me  
   * developer email: oscarl.developer@gmail.com
   * linkedIn: https://www.linkedin.com/in/oscar-lopez-dev/
