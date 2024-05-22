@@ -3,6 +3,12 @@
 
 ![Alt Text](./OscarLopez.gif)
 
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-dev19&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-dev19&layout=compact)
+
+
+
 
 Languages + Tools I use:
 ---
