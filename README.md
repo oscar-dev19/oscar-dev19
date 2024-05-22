@@ -7,6 +7,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar-dev19&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=oscar-dev19)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=oscar-dev19)
+
 
 
 
