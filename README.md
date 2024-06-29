@@ -26,8 +26,8 @@ Languages + Tools I use:
 
 ---
 
-- 👀 I’m interested in Quantum Computing and its applications especially in the fields of privacy and security!
-- 🌱 I’m currently learning Qiskit and Mathematical Foundations in Algorithm Development.
+- 👀 I’m interested in Anything Open Source! 
+- 🌱 I’m currently learning Qiskit and Quantum C
 - 💞️ I’m looking to collaborate on any Open Source Software!
 - 📫 How to reach me  
   * developer email: oscarl.developer@gmail.com
