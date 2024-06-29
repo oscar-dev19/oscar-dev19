@@ -13,6 +13,7 @@
 
 
 
+![](./technologies.gif)
 
 Languages + Tools I use:
 ---
