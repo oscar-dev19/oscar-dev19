@@ -12,7 +12,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=oscar-dev19)
 
 
-
 ![](./technologies.gif)
 
 Languages + Tools I use:
