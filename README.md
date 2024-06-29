@@ -25,15 +25,17 @@ Languages + Tools I use:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 
 ---
+### 👋 About Me
 
-- 👀 I’m interested in Anything Open Source! 
-- 🌱 I’m currently learning Qiskit and Quantum C
-- 💞️ I’m looking to collaborate on any Open Source Software!
-- 📫 How to reach me  
-  * developer email: oscarl.developer@gmail.com
-  * linkedIn: https://www.linkedin.com/in/oscar-lopez-dev/
-                    
--                     
+- 👀 **Interests:** Enthusiastic about Software Engineering and Open Source!
+- 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills.
+- 💞️ **Open to Collaborate:** Looking to work on exciting projects and contribute to the community.
+- 📫 **Connect with Me:**
+  - **Email:** [oscarl.developer@gmail.com](mailto:oscarl.developer@gmail.com)
+  - **LinkedIn:** [Oscar Lopez](https://www.linkedin.com/in/oscar-lopez-dev/)
+
+
+---                     
 
 <!---
 olopez15401/olopez15401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
