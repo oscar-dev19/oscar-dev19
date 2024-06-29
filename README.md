@@ -32,7 +32,7 @@ Languages + Tools I use:
 ### 👋 About Me
 
 - 👀 **Interests:** Enthusiastic about Software Engineering and Open Source!
-- 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills.
+- 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills, Specifically developing my Python mastery as well as Javascript
 - 💞️ **Open to Collaborate:** Looking to work on exciting projects and contribute to the community.
 - 📫 **Connect with Me:**
   - **Email:** [oscarl.developer@gmail.com](mailto:oscarl.developer@gmail.com)
