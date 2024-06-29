@@ -13,7 +13,7 @@ I'm an enthusiastic self-taught Software Engineer and Computer Science student w
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=oscar-dev19)
 
-[![Oscar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=syed007hassan&bg_color=18122B&color=6096B4&line=3A98B9&point=FCFFE7&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ![](./technologies.gif)
