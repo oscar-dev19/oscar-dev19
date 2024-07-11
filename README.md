@@ -3,7 +3,7 @@
 I'm an enthusiastic self-taught Software Engineer and Computer Science student working towards my B.S. in Computer Science. I have a passion for continuously learning new things and exploring the latest in software and technology. Known for my love of distro hopping and the occasional knack for breaking things that already worked.
 
 
-![Alt Text](./OscarLopez.gif)
+![](./OscarLopez.gif)
 
 ![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscar-dev19&show_icons=true&theme=radical)
 
