@@ -32,7 +32,7 @@ Languages + Tools I use:
 ---
 ### 👋 About Me
 
-- 👀 **Interests:** Enthusiastic about Software Engineering and Open Source!
+- 👀 **Interests:** Enthusiastic about Software Engineering and Open Source! Im fairly new but am ready to get out of being a lurker and really contribute to projects I like to use!
 - 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills, Specifically developing my Python mastery as well as Javascript
 - 💞️ **Open to Collaborate:** Looking to work on exciting projects and contribute to the community.
 - 📫 **Connect with Me:**
