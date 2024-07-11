@@ -33,8 +33,7 @@ Languages + Tools I use:
 ### 👋 About Me
 
 - 👀 **Interests:** Enthusiastic about Software Engineering and Open Source! Im fairly new but am ready to get out of being a lurker and really contribute to projects I like to use!
-- 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills, Specifically developing my Python mastery. Im also dabbing in the new world of rust programming,
-- as I am legitimately enticed to not managing destructors in heap memory.
+- 🌱 **Currently Learning:** Exploring new technologies and enhancing my skills, Specifically developing my Python mastery. Im also dabbing in the new world of rust programming, as I am legitimately enticed to not managing destructors in heap memory.
 - 💞️ **Open to Collaborate:** Looking to work on exciting projects and contribute to the community.
 - 📫 **Connect with Me:**
   - **Email:** [oscarl.developer@gmail.com](mailto:oscarl.developer@gmail.com)
