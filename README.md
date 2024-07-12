@@ -1,6 +1,6 @@
 👋 Hi, I’m Oscar Lopez!
 
-I'm an enthusiastic self-taught Software Engineer and Computer Science student working towards my B.S. in Computer Science. I have a passion for continuously learning new things and exploring the latest in software and technology. Known for my love of distro hopping and the occasional knack for breaking things that already worked.
+I'm an enthusiastic self-taught Software Engineer and Computer Science student working towards my B.S. in Computer Science. I have a passion for continuously learning new things, experimenting with cutting-edge software and technologies, and contributing to open source projects. Known for my love of distro hopping and my tendency to tinker with systems, even if it means breaking things that already worked.
 
 
 ![](./OscarLopez.gif)
